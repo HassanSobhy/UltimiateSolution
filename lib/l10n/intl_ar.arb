@@ -1,0 +1,23 @@
+{
+  "welcomeBack": "مرحبًا بعودتك!",
+  "logBackIntoYourAccount": "سجل الدخول مرة أخرى إلى حسابك",
+  "userId": "اسم المستخدم",
+  "password": "كلمة المرور",
+  "userIdCannotBeEmpty": "اسم المستخدم لا يمكن أن يكون فارغًا",
+  "passwordCannotBeEmpty": "كلمة المرور لا يمكن أن تكون فارغة",
+  "showMore": "عرض المزيد",
+  "logIn": "تسجيل الدخول",
+  "chooseLanguage": "اختر اللغة",
+  "apply": "تطبيق",
+  "neww": "جديد",
+  "others": "أخرى",
+  "noOrdersYet": "لا توجد طلبات حتى الآن",
+  "youHaveNoOrdersYet": "ليس لديك أي طلبات في سجلك",
+  "orderDetails": "تفاصيل\nالطلب",
+  "status": "الحالة",
+  "totalPrices": "إجمالي السعر",
+  "date": "التاريخ",
+  "english": "English",
+  "arabic": "Arabic",
+  "araby" : "العربية"
+}

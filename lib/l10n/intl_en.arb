@@ -1,0 +1,23 @@
+{
+  "welcomeBack": "Welcome back!",
+  "logBackIntoYourAccount": "Log back into your account",
+  "userId": "User ID",
+  "password": "Password",
+  "userIdCannotBeEmpty": "User ID cannot be empty",
+  "passwordCannotBeEmpty": "Password cannot be empty",
+  "showMore": "Show more",
+  "logIn": "Log In",
+  "chooseLanguage": "Choose Language",
+  "apply": "Apply",
+  "neww": "New",
+  "others": "Others",
+  "noOrdersYet": "No orders yet",
+  "youHaveNoOrdersYet": "You don't have any orders in your hisotry",
+  "orderDetails": "Order\nDetails",
+  "status": "Status",
+  "totalPrices": "Total Price",
+  "date": "Date",
+  "english": "English",
+  "arabic": "Arabic",
+  "araby" : "العربية"
+}
